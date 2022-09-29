@@ -17,16 +17,13 @@
 p{
   text-align:center;
 }
-#missao{ 
-  font-size:20px
-}
 strong{ 
   color:#se89f2
 }
 .itens{ 
   font-style: italic 
 }
-.beneficios{ 
+.beneficios{  
   background:#c2dc9
     padding:20px;
 }

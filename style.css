@@ -1,38 +1,34 @@
+header {
+   background: #5CBF5F;
+   padding: 20px 0;
+}
 
-    body {
+.logo {
+   widht: 200px;
+   height: 200px;
 }
-#banner { 
-    width:100%;
+
+.caixa {
+   position: relative;
+   width: 940px;
+   margin: 0 auto;
 }
-.principal{ 
-  background: #sasee8;
-  padding: 30px; 
+
+nav {
+   position: absolute;
+   top: 110px;
+   right: 0;
 }
-.titulo-principal{ 
-  padding-left: 20px;
+
+nav li {
+   display: inline;
+   margin: 0 0 0 15px;
 }
-.titulo-centralizado{
-  text-align:center 
+
+nav a {
+   text-transform: uppercase;
+   color: #000000;
+   font-weight: bold;
+   font-size: 22px;
+   text-decoration: none;
 }
-p{
-  text-align:center;
-}
-strong{ 
-  color:#se89f2
-}
-.itens{ 
-  font-style: italic 
-}
-.beneficios{  TRABALHAMOS DAS 9 HORAS ATE AS 21 DA NOITE., FICAMOS PROXIMO AO ESTABELICENTO REQUINTE, VENHA NOS CONHECER, VOCE NAO VAI SE ARREPENDER. 
-  background:#c2dc9
-    padding:20px;
-}
-ul{
-  display: inline-block;
-  vertical-align:top;
-  width:20%;
-  margin-right: 15%;
-}
-.imagembeneficios{
-  width:50%;
-} 
